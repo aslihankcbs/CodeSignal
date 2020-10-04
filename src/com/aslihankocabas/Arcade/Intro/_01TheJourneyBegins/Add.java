@@ -1,4 +1,4 @@
-package com.aslihankocabas.Arcade.Intro.TheJourneyBegins;
+package com.aslihankocabas.Arcade.Intro._01TheJourneyBegins;
 
 public class Add {
     public static void main(String[] args) {

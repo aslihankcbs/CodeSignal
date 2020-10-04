@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce764f0f-10f0-436e-b7c0-60ee196cc8ce" name="Default Changelist" comment="" />
+    <list default="true" id="ce764f0f-10f0-436e-b7c0-60ee196cc8ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aslihankocabas/Arcade/Intro/_02EdgeOfTheOcean/AdjacentElementsProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aslihankocabas/Arcade/Intro/TheJourneyBegins/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aslihankocabas/Arcade/Intro/_01TheJourneyBegins/Add.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,22 +19,39 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iQerQTqjn0XfLcnP86pQXyxevp" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Add">
+  <component name="RunManager" selected="Application.AdjacentElementsProduct">
     <configuration name="Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aslihankocabas.Arcade.Intro.TheJourneyBegins.Add" />
+      <option name="MAIN_CLASS_NAME" value="com.aslihankocabas.Arcade.Intro._01TheJourneyBegins.Add" />
       <module name="CodeSignal" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aslihankocabas.Arcade.Intro.TheJourneyBegins.*" />
+          <option name="PATTERN" value="com.aslihankocabas.Arcade.Intro._01TheJourneyBegins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdjacentElementsProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aslihankocabas.Arcade.Intro._02EdgeOfTheOcean.AdjacentElementsProduct" />
+      <module name="CodeSignal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aslihankocabas.Arcade.Intro._02EdgeOfTheOcean.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,9 +72,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Add" />
+      <item itemvalue="Application.AdjacentElementsProduct" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdjacentElementsProduct" />
         <item itemvalue="Application.Add" />
       </list>
     </recent_temporary>
@@ -80,6 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601844440853</updated>
       <workItem from="1601844459029" duration="1431000" />
+      <workItem from="1601846863803" duration="1539000" />
     </task>
     <servers />
   </component>
@@ -91,21 +116,21 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="980" y="206" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1601845723158" />
-    <state width="756" height="238" key="GridCell.Tab.0.bottom" timestamp="1601846049450">
+    <state width="1557" height="238" key="GridCell.Tab.0.bottom" timestamp="1601848481153">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="756" height="238" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1601846049450" />
-    <state width="756" height="238" key="GridCell.Tab.0.center" timestamp="1601846049450">
+    <state width="1557" height="238" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1601848481153" />
+    <state width="1557" height="238" key="GridCell.Tab.0.center" timestamp="1601848481153">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="756" height="238" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1601846049450" />
-    <state width="756" height="238" key="GridCell.Tab.0.left" timestamp="1601846049449">
+    <state width="1557" height="238" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1601848481153" />
+    <state width="1557" height="238" key="GridCell.Tab.0.left" timestamp="1601848481153">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="756" height="238" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1601846049449" />
-    <state width="756" height="238" key="GridCell.Tab.0.right" timestamp="1601846049450">
+    <state width="1557" height="238" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1601848481153" />
+    <state width="1557" height="238" key="GridCell.Tab.0.right" timestamp="1601848481153">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="756" height="238" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1601846049450" />
+    <state width="1557" height="238" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1601848481153" />
   </component>
 </project>
