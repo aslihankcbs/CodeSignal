@@ -1,4 +1,4 @@
-package com.aslihankocabas.Arcade.Intro._02EdgeOfTheOcean;
+package com.aslihankocabas.Other;
 
 import java.util.Arrays;
 
