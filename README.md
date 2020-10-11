@@ -1,1 +1,1 @@
-# CodeSignal
+# Algorithms
