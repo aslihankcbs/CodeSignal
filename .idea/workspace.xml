@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce764f0f-10f0-436e-b7c0-60ee196cc8ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aslihankocabas/Arcade/Intro/_02EdgeOfTheOcean/AdjacentElementsProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aslihankocabas/Arcade/Intro/_01TheJourneyBegins/CenturyFromYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aslihankocabas/Arcade/Intro/_01TheJourneyBegins/CheckPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aslihankocabas/Arcade/Intro/_02EdgeOfTheOcean/ShapeArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aslihankocabas/Arcade/Intro/_02EdgeOfTheOcean/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aslihankocabas/Arcade/Intro/TheJourneyBegins/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aslihankocabas/Arcade/Intro/_01TheJourneyBegins/Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeSignal/com/aslihankocabas/Arcade/Intro/TheJourneyBegins/Add.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,24 +30,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.AdjacentElementsProduct">
-    <configuration name="Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aslihankocabas.Arcade.Intro._01TheJourneyBegins.Add" />
-      <module name="CodeSignal" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aslihankocabas.Arcade.Intro._01TheJourneyBegins.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ShapeArea">
     <configuration name="AdjacentElementsProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.aslihankocabas.Arcade.Intro._02EdgeOfTheOcean.AdjacentElementsProduct" />
       <module name="CodeSignal" />
@@ -59,25 +49,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.aslihankocabas.Main" />
+    <configuration name="CenturyFromYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aslihankocabas.Arcade.Intro._01TheJourneyBegins.CenturyFromYear" />
       <module name="CodeSignal" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aslihankocabas.Arcade.Intro._01TheJourneyBegins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aslihankocabas.Arcade.Intro._01TheJourneyBegins.CheckPalindrome" />
+      <module name="CodeSignal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aslihankocabas.Arcade.Intro._01TheJourneyBegins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aslihankocabas.Arcade.Intro._02EdgeOfTheOcean.ShapeArea" />
+      <module name="CodeSignal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aslihankocabas.Arcade.Intro._02EdgeOfTheOcean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aslihankocabas.Arcade.Intro._02EdgeOfTheOcean.Test" />
+      <module name="CodeSignal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aslihankocabas.Arcade.Intro._02EdgeOfTheOcean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Add" />
       <item itemvalue="Application.AdjacentElementsProduct" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.CenturyFromYear" />
+      <item itemvalue="Application.CheckPalindrome" />
+      <item itemvalue="Application.ShapeArea" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShapeArea" />
+        <item itemvalue="Application.CheckPalindrome" />
+        <item itemvalue="Application.CenturyFromYear" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.AdjacentElementsProduct" />
-        <item itemvalue="Application.Add" />
       </list>
     </recent_temporary>
   </component>
@@ -104,33 +141,85 @@
       <option name="presentableId" value="Default" />
       <updated>1601844440853</updated>
       <workItem from="1601844459029" duration="1431000" />
-      <workItem from="1601846863803" duration="1539000" />
+      <workItem from="1601846863803" duration="1674000" />
+      <workItem from="1602013681207" duration="1018000" />
+      <workItem from="1602090751035" duration="1695000" />
+      <workItem from="1602104018601" duration="3287000" />
+      <workItem from="1602422189766" duration="2986000" />
     </task>
+    <task id="LOCAL-00001" summary="AdjacentElementsProduct method added">
+      <created>1601848532077</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601848532077</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AdjacentElementsProduct method added" />
+    <option name="LAST_COMMIT_MESSAGE" value="AdjacentElementsProduct method added" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="205" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1602425059253">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="205" y="164" key="#com.intellij.ide.util.MemberChooser/0.0.1600.900@0.0.1600.900" timestamp="1602425059253" />
+    <state x="555" y="154" key="#xdebugger.evaluate" timestamp="1602107311337">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="555" y="154" key="#xdebugger.evaluate/0.0.1600.900@0.0.1600.900" timestamp="1602107311337" />
+    <state x="425" y="45" key="CommitChangelistDialog2" timestamp="1601848530365">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="425" y="45" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1601848530365" />
+    <state width="429" height="466" key="DebuggerActiveHint" timestamp="1602108221002">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="429" height="466" key="DebuggerActiveHint/0.0.1600.900@0.0.1600.900" timestamp="1602108221002" />
     <state x="980" y="206" key="FileChooserDialogImpl" timestamp="1601845723158">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="980" y="206" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1601845723158" />
-    <state width="1557" height="238" key="GridCell.Tab.0.bottom" timestamp="1601848481153">
+    <state width="1557" height="362" key="GridCell.Tab.0.bottom" timestamp="1602425216531">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1557" height="238" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1601848481153" />
-    <state width="1557" height="238" key="GridCell.Tab.0.center" timestamp="1601848481153">
+    <state width="1557" height="362" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1602425216531" />
+    <state width="1557" height="362" key="GridCell.Tab.0.center" timestamp="1602425216531">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1557" height="238" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1601848481153" />
-    <state width="1557" height="238" key="GridCell.Tab.0.left" timestamp="1601848481153">
+    <state width="1557" height="362" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1602425216531" />
+    <state width="1557" height="362" key="GridCell.Tab.0.left" timestamp="1602425216531">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1557" height="238" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1601848481153" />
-    <state width="1557" height="238" key="GridCell.Tab.0.right" timestamp="1601848481153">
+    <state width="1557" height="362" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1602425216531" />
+    <state width="1557" height="362" key="GridCell.Tab.0.right" timestamp="1602425216531">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1557" height="238" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1601848481153" />
+    <state width="1557" height="362" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1602425216531" />
+    <state width="1557" height="290" key="GridCell.Tab.1.bottom" timestamp="1602108586998">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="290" key="GridCell.Tab.1.bottom/0.0.1600.900@0.0.1600.900" timestamp="1602108586998" />
+    <state width="1557" height="290" key="GridCell.Tab.1.center" timestamp="1602108586998">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="290" key="GridCell.Tab.1.center/0.0.1600.900@0.0.1600.900" timestamp="1602108586998" />
+    <state width="1557" height="290" key="GridCell.Tab.1.left" timestamp="1602108586998">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="290" key="GridCell.Tab.1.left/0.0.1600.900@0.0.1600.900" timestamp="1602108586998" />
+    <state width="1557" height="290" key="GridCell.Tab.1.right" timestamp="1602108586998">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="290" key="GridCell.Tab.1.right/0.0.1600.900@0.0.1600.900" timestamp="1602108586998" />
+    <state x="392" y="172" key="Vcs.Push.Dialog.v2" timestamp="1601848534815">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="392" y="172" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1601848534815" />
   </component>
 </project>
